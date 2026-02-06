@@ -8,18 +8,17 @@ Alongside my beliefs, I also love building solutions; it gives me satisfaction t
 
 My main tech stack is Python (FastAPI and sometimes Flask), and JavaScript/TypeScript alongside React.
 
-# I am currently looking for an English-speaking 2026 Summer Internship based in Europe, preferably Germany, but up for any opportunity
-
-Ways to reach me:
-idzneladze@constructor.university
-LinkedIn - Ilia Dzneladze 
-
-- 🔭 I’m currently working on:
+🌱 I’m currently working on:
   - GTFS Toolkit (Comprehensive toolkit for public transit analysis)
   - WineWarehouse+ (Open-source warehouse management system)
   - Lingochat (Language learning software utilizing agentic AI)
   - etc.
 
+### 🔭 I am currently looking for an English-speaking 2026 Summer Internship based in Europe
+
+📫 How to reach me: 
+  - idzneladze@constructor.university
+  - LinkedIn - Ilia Dzneladze 
 
 <!--
 **ilia-dzneladze/ilia-dzneladze** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
