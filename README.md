@@ -6,13 +6,12 @@ I believe that **most** problems can be solved with a comprehensive plan and ded
 
 Alongside my beliefs, I also love building solutions; it gives me satisfaction to solve real problems.
 
-My main tech stack is Python (FastAPI and sometimes Flask), and JavaScript/TypeScript alongside React.
+My main tech stack is Python (FastAPI and sometimes Flask) and JavaScript/TypeScript, with React.
 
 🌱 I’m currently working on:
+  - Parlova (Language learning software utilizing agentic AI)
   - GTFS Toolkit (Comprehensive toolkit for public transit analysis)
   - WineWarehouse+ (Open-source warehouse management system)
-  - Lingochat (Language learning software utilizing agentic AI)
-  - etc.
 
 ### 🔭 I am currently looking for an English-speaking 2026 Summer Internship based in Europe
 
