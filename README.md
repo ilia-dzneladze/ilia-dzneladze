@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-I am Ilia, a Software Engineer based in Germany.
+I am Ilia, a Software/ML Engineer based in Germany.
 
 I believe that **most** problems can be solved with a comprehensive plan and dedicated work.
 
